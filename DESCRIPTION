@@ -1,7 +1,8 @@
 Package: barrks
 Type: Package
 Title: Calculate Bark Beetle Phenology Using Different Models
-Version: 1.1.1
+Version: 1.1.2
+Date: 2025-08-29
 Description: Calculate the bark beetle phenology based on raster data or
     point-related data. There are multiple models implemented for two bark
     beetle species. The models can be customized and their submodels (onset of
@@ -46,9 +47,9 @@ Depends: R (>= 4.3.0)
 Suggests: devtools, geosphere, graphics, knitr, mnormt, ncdf4, rlang,
         rmarkdown, suncalc, tidyverse, tinytest, utils, viridisLite
 NeedsCompilation: no
-Packaged: 2025-03-27 10:22:00 UTC; Jakob.Jentschke
+Packaged: 2025-08-29 10:22:09 UTC; Jakob.Jentschke
 Author: Jakob Jentschke [aut, cre],
   FVA BW, Abt. Waldschutz [cph, fnd]
 Maintainer: Jakob Jentschke <jakob.jentschke@forst.bwl.de>
 Repository: CRAN
-Date/Publication: 2025-03-27 10:40:04 UTC
+Date/Publication: 2025-08-29 10:50:02 UTC
